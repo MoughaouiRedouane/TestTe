@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAtrio", "webAtrio\webAtrio.csproj", "{832E4282-3AA0-40F6-A215-BCCDF13B7495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832E4282-3AA0-40F6-A215-BCCDF13B7495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832E4282-3AA0-40F6-A215-BCCDF13B7495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832E4282-3AA0-40F6-A215-BCCDF13B7495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832E4282-3AA0-40F6-A215-BCCDF13B7495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325B3D21-B6CD-448F-AB8D-879BD2D38D95}
+	EndGlobalSection
+EndGlobal
